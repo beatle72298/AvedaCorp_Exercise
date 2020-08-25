@@ -161,7 +161,7 @@ svg{fill: white;}
 
 
 .hero-btn-1{
-    background-color: greenyellow;
+    background-color: yellowgreen;
     white-space: nowrap;
 }
 
@@ -415,10 +415,14 @@ footer{
         margin-right: 10px;
     }
     
-    table .header-btn{
-        margin-top: 20px;
+    #learn-more{
+        position: relative;
+        top: 15px;
     }
     
+    .hero-arrow{
+        top: 0px;
+    }
     
 }
 
